@@ -21,3 +21,5 @@ sum(2, 3);
 //  git log 来看
 //  git reset --hard 提交id
 //  查看ref记录
+
+//  git checkout //  撤回文件
