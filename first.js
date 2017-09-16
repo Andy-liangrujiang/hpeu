@@ -23,3 +23,8 @@ sum(2, 3);
 //  查看ref记录
 
 //  git checkout //  撤回文件
+try {
+  throw new Eror('error, not found');
+} catch (e) {
+  console.log(e.message);
+};
